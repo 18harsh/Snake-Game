@@ -6,4 +6,4 @@ Python 3.x
 pygame
 
 # click on the link to see how the code looks:
-https://github.com/18harsh/Snake-Game/blob/master/Screenshot.pdf
+![](Snake_updated1/2020-05-19.png)

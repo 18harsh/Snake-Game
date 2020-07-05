@@ -5,5 +5,5 @@ Python 3.x
 
 pygame
 
-# click on the link to see how the code looks:
+# Image
 ![](Snake_updated1/2020-05-19.png)
